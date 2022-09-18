@@ -1,0 +1,12 @@
+#joke{
+  margin-top: 10px;
+    border-style: solid;
+    border-color: gold;
+   border-left-width: 10px;
+   border-right-width: 10px;
+}
+.d-grid{
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 10px;
+}
